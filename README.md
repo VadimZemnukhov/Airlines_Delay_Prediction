@@ -1,2 +1,2 @@
 # Airlines_Delay_Prediction
-This word is dedicated to airline delay prediction
+This work is dedicated to airline delay prediction
